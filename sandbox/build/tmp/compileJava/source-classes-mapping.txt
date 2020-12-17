@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ua/stqa/pft/sandbox/MyFirstProgram.java
  ua.stqa.pft.sandbox.MyFirstProgram
+=======
+MyFirstProgram.java
+ MyFirstProgram
+>>>>>>> 5338dc14cc5c9e0cbb42fdc392c43ae1a1ce1ff3
